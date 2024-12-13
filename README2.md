@@ -2,7 +2,7 @@
 
 ### Q1), Q2), Q3) from logistic_growth data:
 
-<https://github.com/annon64/logistic_growth/tree/dev>
+[<https://github.com/annon64/logistic_growth/tree/dev>](https://github.com/annon64/reproducible-research_homework/blob/main/README2.md)
 
 ### Question 4: Simulating Randomness using Brownian motion
 

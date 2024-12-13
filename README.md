@@ -6,6 +6,8 @@ ASSIGNMENT CODE IS GIVEN IN THE README2.md FILE
 
 MY ASSESSMENT ANSWERS ARE IN THE README2.md FILE, PLEASE VIEW THIS FILE TO SEE MY SUBMISSION, THIS WAS DUE TO A COMPUTER TECHNICALITY 
 
+https://github.com/annon64/reproducible-research_homework/blob/main/README2.md
+
 ## Instructions
 
 The homework for this Computer skills practical is divided into 5 questions for a total of 100 points. First, fork this repo and make sure your fork is made **Public** for marking. Answers should be added to the # INSERT ANSWERS HERE # section above in the **README.md** file of your forked repository.
